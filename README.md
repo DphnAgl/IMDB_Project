@@ -6,7 +6,6 @@ This project involves analyzing sales data to extract insights and visualize tre
 
 ## Technologies Used
 - Python (pandas, matplotlib, seaborn)
-- SQL
 - Jupyter Notebook
 
 ## Features / Highlights
