@@ -2,7 +2,7 @@
 Sales Data Analysis & Visualization (TEST)
 
 ## Description
-This project involves analyzing sales data to extract insights and visualize trends. It demonstrates data cleaning, manipulation, and visualization using Python and SQL.
+This project involves analyzing sales data to extract insights and visualize trends. It demonstrates data cleaning, manipulation, and visualization using Jupyter environment, Python Kernel
 
 ## Technologies Used
 - Python (pandas, matplotlib, seaborn)
@@ -12,7 +12,6 @@ This project involves analyzing sales data to extract insights and visualize tre
 - Data cleaning and preprocessing
 - Exploratory data analysis
 - Interactive and static visualizations
-- Queries to extract specific insights from datasets
 
 ## How to Run
 1. Clone the repository
